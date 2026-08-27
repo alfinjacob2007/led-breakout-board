@@ -21,8 +21,7 @@ A simple 3-channel LED breakout board designed in KiCad for easy connection and 
 
 ## 🟢 PCB Layout
 
-![PCB Layout](images/pcbpreview)
-
+![PCB Layout](images/https://github.com/alfinjacob2007/led-breakout-board/blob/main/pcblayout.png)
 ## 🧊 3D View
 
 ![3D View](images/3d-view.png)
